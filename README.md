@@ -37,12 +37,12 @@ This project demonstrates strong proficiency in:
 - **Database:** PostgreSQL  
 - **Language:** SQL  
 - **Domain:** Data Analytics / Database Management System (DBMS)  
-- **Tools:** pgAdmin / PostgreSQL CLI  
+- **Tools:** pgAdmin / PostgreSQL 
 
 ---
 
 ## 📝 Author
-**Kavin**
+**Kavin A**
 - Passionate about SQL, analytics, and building practical datasets for real-world insights.
 
 
