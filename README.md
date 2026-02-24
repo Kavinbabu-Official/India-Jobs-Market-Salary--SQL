@@ -7,9 +7,11 @@
 
 ### 🔎 Project Overview
 
-- This project analyzes job listings in India for 2026 using PostgreSQL. The dataset contains information about job titles, companies, locations, required experience, skills, salary ranges, employment types, and remote options.
-- The goal is to explore salary trends, hiring requirements, and company offerings through structured SQL queries and window functions.
-
+- SQL-based analysis of an Indian job listings dataset
+- Dataset size: 10,000 records
+- Focus: salary trends, experience demand, company compensation comparison
+- All insights generated using structured SQL queries
+  
 ---
 
 ## 🛠️ Technologies Used
@@ -21,18 +23,26 @@
 
 ---
 
-## 📈 Potential Extensions
+## 📈 Key Insights
 
-- Salary distribution by location.
-- Remote vs. onsite salary comparisons.
-- Skill-based salary analysis.
-- Employment type trends (full-time, contract, internship).
+- Senior roles offer significantly higher salary ceilings
+- ML, Data, Cloud, and DevOps roles dominate top salary brackets
+- Compensation varies across companies for the same position
+- Structured querying reveals clear salary benchmarking patterns
 
 ---
 
-## 📝 Author
-**Kavin A**
-- Passionate about SQL, analytics, and building practical datasets for real-world insights.
+## 🎯 Business Value
 
+- Enables salary benchmarking
+- Supports hiring trend analysis
+- Helps compare compensation across organizations
+- Demonstrates strong SQL analytical capability
+
+---
+
+## ✅ Conclusion
+
+- This project showcases practical SQL proficiency in transforming structured job data into concise, actionable market insights through aggregation, filtering, and    ranking techniques.
 
 
