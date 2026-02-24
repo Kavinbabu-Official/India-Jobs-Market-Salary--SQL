@@ -7,24 +7,17 @@ The project focuses on structured job listing data to generate meaningful insigh
 
 This project demonstrates strong proficiency in SQL querying, data analysis, window functions, and structured database design using PostgreSQL
 
-🎯 Project Objectives
+# 🎯 Project Objectives
 
 Design a structured relational table for job market data
-
 Ensure data integrity using appropriate constraints
-
 Perform salary and experience-based analysis
-
 Identify high-paying roles and hiring trends
-
 Generate actionable insights using advanced SQL queries
 
-🛠️ Technologies Used
+# 🛠️ Technologies Used
 
 Database: PostgreSQL
-
 Language: SQL
-
 Domain: Data Analytics / Database Management System (DBMS)
-
 Tools: pgAdmin / PostgreSQL CLI
