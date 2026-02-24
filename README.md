@@ -4,21 +4,9 @@
 
 ### 🔎 Project Overview
 
-India_Jobs_Market_Trends is a PostgreSQL-based data analysis project designed to explore and analyze job market trends across India.
+- This project analyzes job listings in India for 2026 using PostgreSQL. The dataset contains information about job titles, companies, locations, required experience, skills, salary ranges, employment types, and remote options.
+- The goal is to explore salary trends, hiring requirements, and company offerings through structured SQL queries and window functions.
 
-The project focuses on structured job listing data to generate meaningful insights regarding:
-
-- Salary distribution  
-- Experience requirements  
-- Hiring companies  
-- Employment patterns  
-
-This project demonstrates strong proficiency in:
-
-- SQL querying  
-- Data analysis  
-- Window functions  
-- Structured database design using PostgreSQL  
 
 ---
 
@@ -38,6 +26,15 @@ This project demonstrates strong proficiency in:
 - **Language:** SQL  
 - **Domain:** Data Analytics / Database Management System (DBMS)  
 - **Tools:** pgAdmin / PostgreSQL 
+
+---
+
+## 📈 Potential Extensions
+
+- Salary distribution by location.
+- Remote vs. onsite salary comparisons.
+- Skill-based salary analysis.
+- Employment type trends (full-time, contract, internship).
 
 ---
 
