@@ -1,3 +1,6 @@
+<img width="794" height="400" alt="Salary_Trends_Db" src="https://github.com/user-attachments/assets/a7f631ca-182a-4c58-813a-d1551d21643c" />
+
+
 # India-Jobs-Market-Salary--SQL
 
 ## 📌 India_Jobs_Market_Trends (PostgreSQL Database Project)
