@@ -7,17 +7,6 @@
 - This project analyzes job listings in India for 2026 using PostgreSQL. The dataset contains information about job titles, companies, locations, required experience, skills, salary ranges, employment types, and remote options.
 - The goal is to explore salary trends, hiring requirements, and company offerings through structured SQL queries and window functions.
 
-
----
-
-## 🎯 Project Objectives
-
-- Design a structured relational table for job market data  
-- Ensure data integrity using appropriate constraints  
-- Perform salary and experience-based analysis  
-- Identify high-paying roles and hiring trends  
-- Generate actionable insights using advanced SQL queries  
-
 ---
 
 ## 🛠️ Technologies Used
