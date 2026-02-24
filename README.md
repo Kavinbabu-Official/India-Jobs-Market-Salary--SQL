@@ -41,3 +41,9 @@ This project demonstrates strong proficiency in:
 
 ---
 
+## 📝 Author
+**Kavin**
+- Passionate about SQL, analytics, and building practical datasets for real-world insights.
+
+
+
